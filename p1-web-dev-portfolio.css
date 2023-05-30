@@ -102,7 +102,7 @@ nav a:hover {
 }
 .main {
     box-shadow: 0 0 15px black;
-    background-image: url(../p1-web-dev-portfolio/images/abstract.jpg);
+    background-image: url(images/abstract.jpg);
     background-size: cover;
     padding: 50px;
     display: flex;
@@ -318,7 +318,7 @@ nav a:hover {
 }
 .contact {
     box-shadow: 0 0 15px black;
-    background-image: url(../p1-web-dev-portfolio/images/abstract.jpg);
+    background-image: url(images/abstract.jpg);
     background-size: cover;
     padding: 40px 0;
 }
